@@ -1,0 +1,238 @@
+.busqueda{
+	height: 27px;
+	width: 880px;
+	background:	#F5F5F5;
+	border-radius: 5px;
+	margin-right: 20px;
+	position: absolute;
+	left: 100px;
+	bottom: 700px;
+
+}
+.ipin{
+	margin: 20px;
+	position: fixed;
+	left: 55px;
+	bottom: 684px;
+}
+
+.lens{
+	margin:20px;
+	position: fixed;
+	left: 130px;
+	bottom: 684px;
+	
+}
+.avascrip{
+	font-family: sans-serif;
+	color: grey;
+	position: absolute;
+	left: 170px;
+	bottom: 690px;
+}
+.equis{
+	position: fixed;
+	right: 400px;
+	bottom: 703px;
+}
+
+.alpin{
+	font-family:sans-serif;
+	color: black;
+	position: fixed;
+	right: 335px;
+	bottom: 690px;
+}
+
+.check{
+	position: fixed;
+	right: 313px;
+	bottom: 703px;
+}
+.user{
+	position: fixed;
+	right: 250px;
+	bottom: 703px;
+}
+.menu{
+	position: fixed;
+	right: 220px;
+	bottom: 703px;
+}
+
+.globo{
+	position: fixed;
+	right: 190px;
+	bottom: 703px;
+}
+hr{
+	margin-top: 40px;
+}
+
+
+.trampa{
+	height: 50px;
+	width: 120px;
+	background: lightgreen;
+	border-radius: 5px;
+	margin-right: 40px;
+	position: absolute;
+	left: 130px;
+	bottom:630px;
+
+}
+.p1{
+	font-family: sans-serif;
+	color: grey;
+	position: absolute;
+	left: 146px;
+	bottom: 630px;
+	
+}
+.tutorial{
+	height: 50px;
+	width: 100px;
+	background: lightgreen;
+	border-radius: 5px;
+	margin-right: 40px;
+	position: absolute;
+	left: 257px;
+	bottom:630px;
+}
+.p2{
+	font-family: sans-serif;
+	color: grey;
+	position: absolute;
+	left: 280px;
+	bottom: 630px;
+}
+.code{
+	height: 50px;
+	width: 80px;
+	background: lightgreen;
+	border-radius: 5px;
+	margin-right: 40px;
+	position: absolute;
+	left: 364px;
+	bottom:630px;
+}
+.p3{
+	font-family: sans-serif;
+	color: grey;
+	position: absolute;
+	left: 386px;
+	bottom: 630px;
+}
+.fun{
+	height: 50px;
+	width: 63px;
+	background: lightgreen;
+	border-radius: 5px;
+	margin-right: 40px;
+	position: absolute;
+	left: 450px;
+	bottom:630px;
+}
+.p4{
+	font-family: sans-serif;
+	color: grey;
+	position: absolute;
+	left: 470px;
+	bottom: 630px;
+}
+.programming{
+	height: 50px;
+	width: 130px;
+	background: lightgreen;
+	border-radius: 5px;
+	margin-right: 40px;
+	position: absolute;
+	left: 520px;
+	bottom:630px;
+}
+.p5{
+	font-family: sans-serif;
+	color: grey;
+	position: absolute;
+	left: 538px;
+	bottom: 630px;
+}
+.projects{
+	height: 50px;
+	width: 111px;
+	background: lightgreen;
+	border-radius: 5px;
+	margin-left: 20px;
+	position: absolute;
+	left: 638px;
+	bottom:630px;
+}
+.p6{
+	font-family: sans-serif;
+	color: grey;
+	position: absolute;
+	left: 687px;
+	bottom: 630px;
+}
+.spots{
+	height: 50px;
+	width: 65px;
+	background: lightgreen;
+	border-radius: 5px;
+	margin-right:  15px;
+	position: absolute;
+	left: 775px;
+	bottom:630px;
+}
+.p7{
+	font-family: sans-serif;
+	color: grey;
+	position: absolute;
+	left: 789px;
+	bottom: 630px;
+
+}
+.medium{
+	height: 50px;
+	width: 75px;
+	background: lightgreen;
+	border-radius: 5px;
+	margin-right: 20px;
+	position: absolute;
+	left: 846px;
+	bottom:630px;
+
+}
+.p8{
+	font-family: sans-serif;
+	color: grey;
+	position: absolute;
+	left: 854px;
+	bottom: 630px;
+
+}
+.videos{
+	height: 50px;
+	width: 70px;
+	background: lightgreen;
+	border-radius: 5px;
+	margin-right: 20px;
+	position: absolute;
+	left: 927px;
+	bottom:630px;
+}
+.p9{
+	font-family: sans-serif;
+	color: grey;
+	position: absolute;
+	left: 937px;
+	bottom: 630px;
+}
+.foto img{
+	margin-top: 70px;
+	width: 300px;
+	height: 700px;
+	border-radius: 10px;
+	float: left;
+	position: relative;
+}
